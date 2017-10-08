@@ -22,6 +22,7 @@
 * [Decoder](https://emn178.github.io/online-tools/) - Base64, MD5, SHA1, SHA256, etc
 * [Encoder / Decoder](https://tech.pookey.co.uk/non-wp/encoder-decoder.php) - A tool to help in breaking codes
 * [CyberChef](https://gchq.github.io/CyberChef/) - Analyzes and decodes data (data formats, compression, and encryption)
+* [CrackStation](https://crackstation.net/) - Password Hash Cracker
 
 * ### Steganography
 * [Image Steganography](http://incoherency.co.uk/image-steganography/#unhide) - Hide images inside other images
@@ -34,6 +35,7 @@
 * [IDA - software](https://www.hex-rays.com/products/ida/index.shtml) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger...etc
 
 ## Software Security
+## Application Security
 ## Malware Analysis 
 ## Misc
 
