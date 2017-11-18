@@ -1,5 +1,5 @@
 # Security Tools
-#### A collection of useful links to web apps/software/general tools in my research on security. I am trying to keep this list up to date with the best tools of each category as I find them. Some categories were copied from SANS course roadmap. 
+#### A collection of my favourite tools to use in CTFs or other computer science & security workflows.
 #
 
 ## Penetration Testing & Ethical Hacking 
@@ -14,6 +14,7 @@
 * [Preparing for CTF](http://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/#gref) - Tools and Resources to Prepare for a Hacker CTF Competition or Challenge
 * [Hack This Site!](https://www.hackthissite.org/) - Ethical Hacking Practice
 * [Hacking Lab](https://www.hacking-lab.com/index.html) 
+* [List of Homebrew-installable Tools](https://github.com/sidaf/homebrew-pentest)
 
 ## Digital Forensics
 * ### Cryptography
@@ -35,7 +36,7 @@
 * [IDA - software](https://www.hex-rays.com/products/ida/index.shtml) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger...etc
 
 ## Software Security
-## Application Security
+## Web Applications
 ## Malware Analysis 
 ## Misc
 
