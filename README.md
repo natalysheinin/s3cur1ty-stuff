@@ -1,5 +1,5 @@
 # Security Tools
-#### A collection of my favourite tools to use in CTFs or other computer science & security workflows.
+#### A collection of my favourite tools to use in CTFs and computer science & security workflows.
 #
 
 ## Penetration Testing & Ethical Hacking 
