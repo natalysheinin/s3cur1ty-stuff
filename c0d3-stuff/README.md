@@ -12,6 +12,7 @@ With the help of [PhantomJS](http://phantomjs.org/), it is able to reach each ho
 ### Setup
 * Install Python
 * Install PhantomJS
+* Install selenium `pip install selenium`
 * Generate a SSL Cert Report for your company's domain using [Symantec's CryptoReport](https://cryptoreport.websecurity.symantec.com/checker/views/ctsearch.jsp)
 * Export the .csv and copy/paste the hostname column into a `websites.txt` file
 
