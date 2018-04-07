@@ -18,6 +18,7 @@
 
 ## Digital Forensics
 * ### Cryptography
+* [cryptii](https://cryptii.com/bitwise-calculator) - The ultimate decoder. Put your plaintext or ciphertext through a series of decoding steps. Includes morse code, base64, caeser cipher, ROT13, Enigma, and many more
 * [quipqiup](https://quipqiup.com/) - cryptogram solver
 * [Cipher Tools](http://rumkin.com/tools/cipher/) - List of cipher decoders/decrypters  
 * [Decoder](https://emn178.github.io/online-tools/) - Base64, MD5, SHA1, SHA256, etc
@@ -30,6 +31,7 @@
 * [Steganography Tools](https://futureboy.us/stegano/) - Encode an image, Decode an image, Compare two images
 
 * ### Reverse Engineering
+* [Hopper Disassembler](https://www.hopperapp.com/)
 * [hackme](http://www.manoharvanga.com/hackme/) - Deconstructing an ELF file
 * [File Checker](http://checkfiletype.com/) - Check File Type
 * [Binary Ninja - software](https://binary.ninja/) - A reserve engineering tool (software)
@@ -37,9 +39,11 @@
 
 ## Software Security
 ## Web Applications
-## Malware Analysis 
+## Malware Analysis
+* [Virus Total](https://www.virustotal.com/) - Upload file, search URL, domain, IP, or hash. Get network information, signatures, malware classification, etc
 ## Misc
-
+* [Packet Analysis](https://www.packettotal.com/) - Upload pcaps and get summaries of connections, malicious activity, connection timelines, etc
+* [Wireshark](https://www.wireshark.org/) - Examine & Analyze pcaps, or capture packets on an interface near you
 
 
 
