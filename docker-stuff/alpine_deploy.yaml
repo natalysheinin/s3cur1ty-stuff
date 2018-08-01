@@ -1,0 +1,24 @@
+apiVersion: apps/v1beta1
+kind: Deployment
+metadata:
+  name: alpine-security
+  labels:
+  name: alpinesecurity
+spec:
+  progressDeadlineSeconds: 120
+  replicas: 1
+  selector:
+      matchLabels:
+        name: alpinesecurity
+  template:
+    metadata:
+      labels:
+        name: alpinesecurity
+    spec:
+      containers:
+      - name: alpine-security
+        image: alpine_nonroot
+        imagePullPolicy: Never
+        securityContext:
+          privileged: false 
+
